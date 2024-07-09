@@ -1,0 +1,27 @@
+#baseURL = 'http://example.org/'
+#languageCode = 'en-us'
+#title = 'My New Hugo Site'
+baseURL = "http://example.org/"
+title = "Rid Network"
+languageCode = "en-us"
+#title = "Alexa Portfolio"
+theme = "alexa-portfolio"
+#googleAnalytics = "UA-167869327-1"
+#enableRobotsTXT = true
+
+[params]
+	# favicon = "/images/fav.png"
+	home_title = "Hello from AS215683"
+	home_subtitle = ""
+	home_description = "Connecting the world with the latest version of internet protocols."
+	github = ""
+	linkedin = ""
+	dribbble = ""
+	phone = "0812-0812-0812"
+	email = "net.ridwanulloh [ad] gmail [dot] com"
+	location = "Jakarta, Indonesia"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

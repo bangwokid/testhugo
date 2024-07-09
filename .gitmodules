@@ -1,0 +1,6 @@
+[submodule "alexa-portfolio"]
+        path = themes/alexa-portfolio
+        url = https://github.com/bangwokid/theme.git
+[submodule "themes/alexa-portfolio"]
+	path = themes/alexa-portfolio
+	url = https://github.com/bangwokid/theme.git
